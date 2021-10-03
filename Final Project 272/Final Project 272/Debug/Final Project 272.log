@@ -1,0 +1,5 @@
+﻿  Report.cpp
+C:\Users\tekni\source\repos\Final Project 272\Final Project 272\Student.hpp(53,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tekni\source\repos\Final Project 272\Final Project 272\Student.hpp(119,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\tekni\source\repos\Final Project 272\Final Project 272\Student.hpp(184,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Final Project 272.vcxproj -> C:\Users\tekni\source\repos\Final Project 272\Debug\Final Project 272.exe

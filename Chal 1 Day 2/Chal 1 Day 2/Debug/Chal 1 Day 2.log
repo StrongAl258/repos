@@ -1,0 +1,13 @@
+﻿  Source.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xutility(4420,22): error C2677: binary '==': no global operator found which takes type 'const _Ty' (or there is no acceptable conversion)
+          with
+          [
+              _Ty=std::string
+          ]
+C:\Users\tekni\source\repos\Chal 1 Day 2\Chal 1 Day 2\Source.cpp(24): message : see reference to function template instantiation 'int std::count<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,std::string>(const _InIt,const _InIt,const _Ty &)' being compiled
+          with
+          [
+              _Elem=char,
+              _InIt=std::_String_iterator<std::_String_val<std::_Simple_types<char>>>,
+              _Ty=std::string
+          ]

@@ -1,0 +1,3 @@
+﻿  Mixed.cpp
+C:\Users\tekni\source\repos\MixedHW2\MixedHW2\Mixed.cpp(64): warning C4715: 'Mixed::Evaluate': not all control paths return a value
+  MixedHW2.vcxproj -> C:\Users\tekni\source\repos\MixedHW2\Debug\MixedHW2.exe

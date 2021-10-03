@@ -1,0 +1,24 @@
+﻿  Source.cpp
+C:\Users\tekni\source\repos\AllKinds\AllKinds\Source.cpp(49,33): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tekni\source\repos\AllKinds\AllKinds\Source.cpp(53,56): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\tekni\source\repos\AllKinds\AllKinds\Source.cpp(44,12): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\tekni\source\repos\AllKinds\AllKinds\Source.cpp(59): message : see reference to function template instantiation 'T AllKinds::addFloat<int>(T,float)' being compiled
+          with
+          [
+              T=int
+          ]
+C:\Users\tekni\source\repos\AllKinds\AllKinds\Source.cpp(44,12): warning C4244: 'return': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=long
+          ]
+C:\Users\tekni\source\repos\AllKinds\AllKinds\Source.cpp(62): message : see reference to function template instantiation 'T AllKinds::addFloat<long>(T,float)' being compiled
+          with
+          [
+              T=long
+          ]
+  AllKinds.vcxproj -> C:\Users\tekni\source\repos\AllKinds\Debug\AllKinds.exe

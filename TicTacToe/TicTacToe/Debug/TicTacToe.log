@@ -1,0 +1,4 @@
+﻿  Game.cpp
+C:\Users\tekni\source\repos\TicTacToe\TicTacToe\Game.cpp(56,1): error C2597: illegal reference to non-static member 'Game::board'
+C:\Users\tekni\source\repos\TicTacToe\TicTacToe\Game.cpp(56,1): error C3867: 'Game::board': non-standard syntax; use '&' to create a pointer to member
+C:\Users\tekni\source\repos\TicTacToe\TicTacToe\Game.cpp(56,1): error C2109: subscript requires array or pointer type

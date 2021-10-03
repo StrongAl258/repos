@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\tekni\source\repos\Challenge1D1\Challenge1D1\Source.cpp(24,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tekni\source\repos\Challenge1D1\Challenge1D1\Source.cpp(26,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tekni\source\repos\Challenge1D1\Challenge1D1\Source.cpp(28,26): warning C4018: '<': signed/unsigned mismatch
+  Challenge1D1.vcxproj -> C:\Users\tekni\source\repos\Challenge1D1\Debug\Challenge1D1.exe

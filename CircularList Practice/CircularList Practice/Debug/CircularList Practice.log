@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\tekni\source\repos\CircularList Practice\CircularList Practice\Source.cpp(1,20): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\tekni\source\repos\CircularList Practice\CircularList Practice\Source.cpp(1,16): error C2146: syntax error: missing ';' before identifier 'Elem'
+C:\Users\tekni\source\repos\CircularList Practice\CircularList Practice\Source.cpp(4,11): error C3646: 'elem': unknown override specifier
+C:\Users\tekni\source\repos\CircularList Practice\CircularList Practice\Source.cpp(4,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int

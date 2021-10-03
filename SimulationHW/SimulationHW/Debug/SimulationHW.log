@@ -1,0 +1,5 @@
+﻿  animal.cpp
+C:\Users\tekni\source\repos\SimulationHW\SimulationHW\animal.cpp(17,8): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tekni\source\repos\SimulationHW\SimulationHW\animal.cpp(30,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\tekni\source\repos\SimulationHW\SimulationHW\animal.cpp(47,21): warning C4018: '<': signed/unsigned mismatch
+  SimulationHW.vcxproj -> C:\Users\tekni\source\repos\SimulationHW\Debug\SimulationHW.exe

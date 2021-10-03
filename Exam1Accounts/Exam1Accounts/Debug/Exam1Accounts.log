@@ -1,0 +1,3 @@
+﻿  Accounts.cpp
+C:\Users\tekni\source\repos\Exam1Accounts\Exam1Accounts\Accounts.cpp(37,9): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Exam1Accounts.vcxproj -> C:\Users\tekni\source\repos\Exam1Accounts\Debug\Exam1Accounts.exe

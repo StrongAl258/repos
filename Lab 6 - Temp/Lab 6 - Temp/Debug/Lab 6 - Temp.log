@@ -1,0 +1,8 @@
+﻿  Distance.cpp
+C:\Users\tekni\source\repos\Lab 6 - Temp\Lab 6 - Temp\Distance.cpp(51,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tekni\source\repos\Lab 6 - Temp\Lab 6 - Temp\Distance.cpp(64): message : see reference to function template instantiation 'double distance<Real>(A,A)' being compiled
+          with
+          [
+              A=Real
+          ]
+  Lab 6 - Temp.vcxproj -> C:\Users\tekni\source\repos\Lab 6 - Temp\Debug\Lab 6 - Temp.exe

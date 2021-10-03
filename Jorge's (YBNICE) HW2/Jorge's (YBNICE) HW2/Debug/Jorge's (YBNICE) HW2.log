@@ -1,0 +1,18 @@
+﻿  mixed.cpp
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(188,11): warning C4101: 'dem': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(188,6): warning C4101: 'num': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(206,11): warning C4101: 'dem': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(206,6): warning C4101: 'num': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(224,11): warning C4101: 'dem': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(224,6): warning C4101: 'num': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(242,11): warning C4101: 'dem': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(242,6): warning C4101: 'num': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(260,11): warning C4101: 'dem': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(260,6): warning C4101: 'num': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(278,11): warning C4101: 'dem': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(278,6): warning C4101: 'num': unreferenced local variable
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(293,58): warning C4042: 'c': has bad storage class
+  Main.cpp
+  Generating Code...
+C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Jorge's (YBNICE) HW2\mixed.cpp(331): warning C4715: 'operator<<': not all control paths return a value
+  Jorge's (YBNICE) HW2.vcxproj -> C:\Users\tekni\source\repos\Jorge's (YBNICE) HW2\Debug\Jorge's (YBNICE) HW2.exe

@@ -1,0 +1,4 @@
+﻿  epidemy.cpp
+C:\Users\tekni\source\repos\HW4 Agents\HW4 Agents\epidemy.cpp(19,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\tekni\source\repos\HW4 Agents\HW4 Agents\epidemy.cpp(45,27): warning C4018: '<': signed/unsigned mismatch
+  HW4 Agents.vcxproj -> C:\Users\tekni\source\repos\HW4 Agents\Debug\HW4 Agents.exe

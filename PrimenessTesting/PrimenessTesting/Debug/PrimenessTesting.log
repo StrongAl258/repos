@@ -1,0 +1,3 @@
+﻿  PrimeTesting.cpp
+C:\Users\tekni\source\repos\PrimenessTesting\PrimenessTesting\PrimeTesting.cpp(5,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  PrimenessTesting.vcxproj -> C:\Users\tekni\source\repos\PrimenessTesting\Debug\PrimenessTesting.exe
